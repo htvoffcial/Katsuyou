@@ -30,3 +30,7 @@ android {
         jvmTarget = "1.8"
     }
 }
+
+dependencies {
+    implementation("androidx.core:core:1.12.0")
+}
